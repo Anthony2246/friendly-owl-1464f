@@ -4,10 +4,9 @@ subtitle: >-
   Apparently, Japan is covered in magical and irresistibly cute animal
   sanctuaries.
 excerpt: >-
-  THERE IS A KIND OF SADNESS THAT DOES NOTHING TO YOU. IT IS LIKE A PITY THAT
-  EMPTIES YOU INSIDE AND LEAVES YOU THINKING ABOUT EVERYTHING AND NOTHING AT THE
-  SAME TIME, AS IF A PART OF YOUR SOUL HAS BEEN STOLEN THERE IS WHERE YOU LOSE
-  EVERYTHING YOU ONCE TRIED TO ACHIEVE.
+  There is a kind of sadness that does nothing to you. It is like a pity that
+  empties you inside and leaves you thinking about everything and nothing at the
+  same time, As of
 date: '2021-10-02'
 thumb_img_path: /images/rain-5364590_960_720.jpg
 thumb_img_alt: A red fox sitting on a meadow
