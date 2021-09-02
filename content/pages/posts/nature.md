@@ -4,8 +4,9 @@ subtitle: >-
   The way I spend time out in nature can affect how much my physical and mental
   health will recharge and how I benefit from it.
 excerpt: >-
-  The way I spend time out in nature can affect how much my physical and mental
-  health will recharge and how I benefit from it.
+  The hell of the one who pushes himself is different. See what lies beyond that
+  hell. It may be a new hell. That is only discovered by those who continue to
+  advance.
 date: '2019-03-24'
 thumb_img_path: images/4.jpg
 thumb_img_alt: A man fishing in a lake
