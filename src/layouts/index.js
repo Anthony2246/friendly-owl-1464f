@@ -6,7 +6,7 @@ import post from './post';
 export { contact, home, page, post };
 
 export default {
-    friends,
+    contact,
     home,
     page,
     post
