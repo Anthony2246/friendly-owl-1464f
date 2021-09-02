@@ -1,4 +1,4 @@
-import contact from './friends';
+import contact from './';
 import home from './home';
 import page from './page';
 import post from './post';
