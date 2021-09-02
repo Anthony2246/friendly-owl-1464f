@@ -1,5 +1,5 @@
 ---
-title: Mi primer
+title: Mi primer "Landing page"
 subtitle: >-
   Apparently, Japan is covered in magical and irresistibly cute animal
   sanctuaries.
