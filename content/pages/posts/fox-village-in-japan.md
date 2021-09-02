@@ -9,7 +9,7 @@ excerpt: >-
   same time, As if a part of your soul has been stolen there is where you lose
   everything you once tried to achieve.
 date: '2021-10-02'
-thumb_img_path: /images/rain-5364590_960_720.jpg
+thumb_img_path: /images/soledad-Dan-musat-1024x683.jpg
 thumb_img_alt: A red fox sitting on a meadow
 content_img_path: images/10.jpg
 seo:
