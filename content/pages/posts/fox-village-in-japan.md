@@ -8,7 +8,7 @@ excerpt: >-
   EMPTIES YOU INSIDE AND LEAVES YOU THINKING ABOUT EVERYTHING AND NOTHING AT THE
   SAME TIME, AS IF A PART OF YOUR SOUL HAS BEEN STOLEN THERE IS WHERE YOU LOSE
   EVERYTHING YOU ONCE TRIED TO ACHIEVE.
-date: '2021-01-02'
+date: '2021-10-02'
 thumb_img_path: /images/rain-5364590_960_720.jpg
 thumb_img_alt: A red fox sitting on a meadow
 content_img_path: images/10.jpg
